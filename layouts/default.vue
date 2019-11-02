@@ -1,7 +1,14 @@
 <template>
-  <div>
+<div>
+  <!-- appbar -->
+  <div class="h-12 w-full flex flex-row items-center justify-center font-sans antialiased">
+    <!--header -->
+    <div class="text-black text-5xl h-auto w-auto font-hairline">DistroQuiz!</div>
+  </div>
+  <div class="font-sans antialiased">
     <nuxt />
   </div>
+</div>
 </template>
 
 <style>

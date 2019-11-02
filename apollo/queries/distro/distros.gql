@@ -1,0 +1,10 @@
+query Distros {
+  distros {
+    id
+    name
+    logo {
+      url
+    }
+    website
+  }
+}
