@@ -1,3 +1,7 @@
+# Dead Project
+I'm looking back at this project for the first time in several years, and holy moly was I over engineering this. GraphQL??? I guess thats just junior devs did. Use the hottest tech no matter what.
+Archiving so I can keep it around
+
 # distroquizui
 
 > my linuxy nuxt.js project
